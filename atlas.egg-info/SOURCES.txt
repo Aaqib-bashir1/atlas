@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+atlas/__init__.py
+atlas/config.py
+atlas/db.py
+atlas/pipeline.py
+atlas/utils.py
+atlas/validation.py
+atlas.egg-info/PKG-INFO
+atlas.egg-info/SOURCES.txt
+atlas.egg-info/dependency_links.txt
+atlas.egg-info/top_level.txt
